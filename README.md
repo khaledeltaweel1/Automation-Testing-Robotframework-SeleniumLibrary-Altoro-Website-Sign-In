@@ -36,3 +36,4 @@ To execute test cases in `login.robot` file follow the below steps :
 - Open Results folder
 - open `report.html`
 - A web page should be opened and the results should look like this image
+  ![image](https://github.com/khaledtamer22/Robotframework-SeleniumLibrary-Altoro-Website-Sign-In/assets/35044692/521f3ea8-acef-401b-94bc-6dcf24c7cac2)
